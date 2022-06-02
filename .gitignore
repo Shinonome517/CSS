@@ -23,6 +23,9 @@ references/*
 ##test files and folders
 test*
 
+##CSS
+.sass-cache/
+
 #This template was taken from https://qiita.com/keitean/items/eb4cb0b454503c2d6ab0
 
 #######

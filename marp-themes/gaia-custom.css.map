@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,wBAAwB;AAExB,qBAAqB;AAErB,OAAO;EACH,gBAAgB,EAAE,KAAK;EACvB,WAAW,EAAE,+FAA+F",
+"sources": ["gaia-custom.scss"],
+"names": [],
+"file": "gaia-custom.css"
+}
