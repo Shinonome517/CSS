@@ -11,6 +11,8 @@
 *.css
 *.css.map
 
+!test-slide.md
+
 #executable folder
 out
 out/*
