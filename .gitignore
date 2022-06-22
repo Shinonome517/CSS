@@ -11,7 +11,7 @@
 *.css
 *.css.map
 
-!test-slide.md
+! ./test-slide.md
 
 #executable folder
 out
@@ -24,7 +24,7 @@ references/*
 #hidden files
 
 ##test files and folders
-test*
+test-slide.pdf
 
 ##CSS
 .sass-cache/
